@@ -1,0 +1,26 @@
+{
+  "name": "sort-search-algorithms",
+  "version": "0.0.1",
+  "description": "a collection of sorting and search algorithms.",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack-whatley/sort-search-algorithms.git"
+  },
+  "keywords": [
+    "sort",
+    "search"
+  ],
+  "author": "jack-whatley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jack-whatley/sort-search-algorithms/issues"
+  },
+  "homepage": "https://github.com/jack-whatley/sort-search-algorithms#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
